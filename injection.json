@@ -1,0 +1,19 @@
+{
+  "publicPath": "{{ NODE_ENV }} === 'development' ? '/' : '/vue-scaff-admin'",
+  "title": "Vue Scaff Electron",
+  "version": "1.2.3.4",
+  "env": "production",
+  "debug": true,
+  "width": 1280,
+  "height": 720,
+  "minWidth": 640,
+  "minHeight": 360,
+  "backgroundColor": "#fff",
+  "center": true,
+  "frame": false,
+  "movable": true,
+  "resizable": true,
+  "darkTheme": true,
+  "menu": false,
+  "updateUrl": "http://vue-scaff-electron.joenix.com/update"
+}
